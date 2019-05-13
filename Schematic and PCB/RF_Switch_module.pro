@@ -1,4 +1,4 @@
-update=2019 May 11, Saturday 14:22:52
+update=2019 May 13, Monday 09:32:47
 version=1
 last_client=kicad
 [general]
@@ -29,6 +29,18 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
+TrackWidth2=0.254
+TrackWidth3=0.381
+TrackWidth4=0.508
+TrackWidth5=0.635
+TrackWidth6=0.762
+TrackWidth7=0.889
+TrackWidth8=1.016
+TrackWidth9=1.143
+TrackWidth10=1.27
+TrackWidth11=1.397
+TrackWidth12=1.524
+TrackWidth13=1.651
 ViaDiameter1=0.8
 ViaDrill1=0.4
 dPairWidth1=0.2
@@ -57,7 +69,7 @@ OthersTextUpright=1
 SolderMaskClearance=0.051
 SolderMaskMinWidth=0.25
 SolderPasteClearance=0
-SolderPasteRatio=0
+SolderPasteRatio=-0
 [pcbnew/Layer.F.Cu]
 Name=F.Cu
 Type=0
@@ -223,7 +235,7 @@ Enabled=1
 [pcbnew/Layer.F.Fab]
 Enabled=1
 [pcbnew/Layer.Rescue]
-Enabled=1
+Enabled=0
 [pcbnew/Netclasses]
 [pcbnew/Netclasses/Default]
 Name=Default
